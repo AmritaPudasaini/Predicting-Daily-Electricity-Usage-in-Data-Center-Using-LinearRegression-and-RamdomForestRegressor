@@ -30,7 +30,7 @@ EDA → Model Training → Hyperparameter Tuning → Cross-Validation
 - CV R² = 0.9938 (closely matches test R², confirming good generalization)
 
 ## Conclusion
-Random Forest is the best model. Facility scale (capacity) — not efficiency — is the main driver of electricity demand.
+Random Forest is the best model. Facility scale (capacity) - not efficiency - is the main driver of electricity demand.
 
 ## Run
 ```
